@@ -9,6 +9,6 @@
 \since: "2009",
 \helpdoc: "Laptop.html",
 \dependencies: ["SenseWorld DataNetwork"],
-\ext_dependancy: "MotionTrackOSC",
+\ext_dependency: "MotionTrackOSC",
 \url: "http://www.nescivi.nl"
 )
